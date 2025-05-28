@@ -12,7 +12,7 @@ Resumen : Este proyecto trata de enseñar datos interesantes sobre los animales
 
 Estilo: juego 
 
-Logotipo : ------------------------------------
+Logotipo : https://drive.google.com/file/d/1mlKg0bW9NK8V9wxne-CbcV4_IGWbbLIv/view
 
 (insertar imágenes a resolucion de 100px alto)-------------------------
 
