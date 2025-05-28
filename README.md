@@ -29,7 +29,7 @@ Fecha : 28/06/2025
 
 Medios
 
-Github:
+Github:https://github.com/yolcm/yolcm.github.io/blob/main/GRX%20JUEGO_Media-20250528T172912Z-1-001.zip
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
