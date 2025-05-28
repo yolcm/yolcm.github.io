@@ -34,7 +34,7 @@ Github:
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
 He realizado un mini camino en el que puedes interactuar brevemente con los personajes para llegar, si es de forma correcta, a un cuestionario.
-file:///C:/Users/yolan/Downloads/Ilustracio%CC%81n-sin-ti%CC%81tulo%20(1).mp4
+file:///C:/Users/yolan/Downloads/Ilustracio%CC%81n-sin-ti%CC%81tulo%20(8).png
 
 ### 2.2. Esquema de navegación
 file:///C:/Users/yolan/Downloads/Pantalla%20inicial.drawio.png
